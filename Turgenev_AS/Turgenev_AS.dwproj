@@ -20,16 +20,16 @@
       <FullPath>Customer.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Time.dim</Name>
-      <FullPath>Time.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
       <Name>Product.dim</Name>
       <FullPath>Product.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>Category.dim</Name>
       <FullPath>Category.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Time.dim</Name>
+      <FullPath>Time.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>
